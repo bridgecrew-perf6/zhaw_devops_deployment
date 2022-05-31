@@ -8,5 +8,9 @@ app.get("", (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`App up at port ${PORT}`)
+    console.log(`App up at port ${PORT}`)
+
+    console.log(`App up at port ${PORT}`)
+
 });
 
